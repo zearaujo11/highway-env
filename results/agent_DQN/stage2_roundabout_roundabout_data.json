@@ -1,0 +1,7 @@
+{
+    "agent_name": "agent_DQN",
+    "environment_name": "roundabout",
+    "stage": "stage2_roundabout",
+    "total_timesteps": 100,
+    "training_results": "<stable_baselines3.dqn.dqn.DQN object at 0x7d8e988eae40>"
+}
