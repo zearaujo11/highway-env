@@ -1,0 +1,33 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 6.153031546564879,
+            "collisions": 0,
+            "avg_speed": 20.92383674097722,
+            "speed_variance": 1.2070381996751303
+        },
+        {
+            "episode": 1,
+            "total_reward": 30.13593475212263,
+            "collisions": 0,
+            "avg_speed": 20.603506810007808,
+            "speed_variance": 1.0008761135153086
+        },
+        {
+            "episode": 2,
+            "total_reward": 2.0,
+            "collisions": 0,
+            "avg_speed": 20.83095090560244,
+            "speed_variance": 1.3774136672108672
+        }
+    ],
+    "kpis": {
+        "average_reward": 12.76298876622917,
+        "total_collisions": 0,
+        "average_speed": 20.78609815219582,
+        "speed_variance": 1.2132170889903247
+    },
+    "environment": "lane_changing",
+    "stage": "pos_training_test"
+}

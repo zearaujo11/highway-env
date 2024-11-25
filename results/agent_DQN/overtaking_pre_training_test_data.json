@@ -1,0 +1,33 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 2.0,
+            "collisions": 0,
+            "avg_speed": 20.75131734369536,
+            "speed_variance": 0.9109314175430298
+        },
+        {
+            "episode": 1,
+            "total_reward": 0.8266666666666668,
+            "collisions": 0,
+            "avg_speed": 20.974884889099915,
+            "speed_variance": 1.6243561318104267
+        },
+        {
+            "episode": 2,
+            "total_reward": 12.360000000000003,
+            "collisions": 0,
+            "avg_speed": 20.898577478951726,
+            "speed_variance": 0.9117397529819352
+        }
+    ],
+    "kpis": {
+        "average_reward": 5.062222222222223,
+        "total_collisions": 0,
+        "average_speed": 20.874926570582335,
+        "speed_variance": 1.1576191914048493
+    },
+    "environment": "overtaking",
+    "stage": "pre_training_test"
+}

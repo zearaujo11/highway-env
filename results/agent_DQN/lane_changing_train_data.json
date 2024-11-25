@@ -1,0 +1,7 @@
+{
+    "agent_name": "agent_DQN",
+    "environment_name": "lane_changing",
+    "stage": "lane_changing",
+    "total_timesteps": 100,
+    "training_results": "<stable_baselines3.dqn.dqn.DQN object at 0x7780843a70e0>"
+}
