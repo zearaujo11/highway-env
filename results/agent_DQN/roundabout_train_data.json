@@ -3,5 +3,11 @@
     "environment_name": "roundabout",
     "stage": "roundabout",
     "total_timesteps": 100,
-    "training_results": "<stable_baselines3.dqn.dqn.DQN object at 0x7780843a70e0>"
+    "training_results": {
+        "rewards": [
+            0.9090909090909091,
+            3.818181818181818,
+            4.590909090909091
+        ]
+    }
 }

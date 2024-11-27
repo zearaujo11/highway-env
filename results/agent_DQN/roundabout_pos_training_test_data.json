@@ -2,31 +2,17 @@
     "test_results": [
         {
             "episode": 0,
-            "total_reward": 7.2727272727272725,
+            "total_reward": 11.09090909090909,
             "collisions": 0,
-            "avg_speed": 12.32158207568088,
-            "speed_variance": 42.46457599368316
-        },
-        {
-            "episode": 1,
-            "total_reward": 2.727272727272727,
-            "collisions": 0,
-            "avg_speed": 13.141560699593692,
-            "speed_variance": 28.094504322335478
-        },
-        {
-            "episode": 2,
-            "total_reward": 4.545454545454545,
-            "collisions": 1,
-            "avg_speed": 16.12480609533811,
-            "speed_variance": 9.965445275419567
+            "avg_speed": 15.41346263291739,
+            "speed_variance": 1.9876690466336384
         }
     ],
     "kpis": {
-        "average_reward": 4.848484848484849,
-        "total_collisions": 1,
-        "average_speed": 13.267345288853205,
-        "speed_variance": 32.955081246446404
+        "average_reward": 11.09090909090909,
+        "total_collisions": 0,
+        "average_speed": 15.41346263291739,
+        "speed_variance": 1.9876690466336384
     },
     "environment": "roundabout",
     "stage": "pos_training_test"

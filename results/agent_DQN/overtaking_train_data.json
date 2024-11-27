@@ -1,0 +1,12 @@
+{
+    "agent_name": "agent_DQN",
+    "environment_name": "overtaking",
+    "stage": "overtaking",
+    "total_timesteps": 100,
+    "training_results": {
+        "rewards": [
+            10.580614191536586,
+            13.703479606174417
+        ]
+    }
+}

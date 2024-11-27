@@ -1,0 +1,19 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 8.975132223632718,
+            "collisions": 0,
+            "avg_speed": 20.67047268649021,
+            "speed_variance": 1.120284505734788
+        }
+    ],
+    "kpis": {
+        "average_reward": 8.975132223632718,
+        "total_collisions": 0,
+        "average_speed": 20.67047268649021,
+        "speed_variance": 1.120284505734788
+    },
+    "environment": "overtaking",
+    "stage": "pos_training_test"
+}
