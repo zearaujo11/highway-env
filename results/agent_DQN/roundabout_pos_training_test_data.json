@@ -2,80 +2,80 @@
     "test_results": [
         {
             "episode": 0,
-            "total_reward": 10.535714285714288,
+            "total_reward": 10.769607843137253,
             "collisions": 0,
-            "avg_speed": 14.37872563935894,
-            "speed_variance": 4.242355050746983
+            "avg_speed": 14.822058896480232,
+            "speed_variance": 1.007975899495382
         },
         {
             "episode": 1,
-            "total_reward": 10.25,
-            "collisions": 0,
-            "avg_speed": 14.174134410906948,
-            "speed_variance": 4.307178054535696
+            "total_reward": 2.9558823529411766,
+            "collisions": 1,
+            "avg_speed": 16.05953660637757,
+            "speed_variance": 1.068960095330425
         },
         {
             "episode": 2,
-            "total_reward": 5.75,
+            "total_reward": 1.9803921568627452,
             "collisions": 1,
-            "avg_speed": 16.280383612741787,
-            "speed_variance": 4.238850382424167
+            "avg_speed": 13.55843086577704,
+            "speed_variance": 6.527436221330897
         },
         {
             "episode": 3,
-            "total_reward": 5.142857142857143,
+            "total_reward": 4.916666666666667,
             "collisions": 1,
-            "avg_speed": 11.359769440086163,
-            "speed_variance": 30.77656613670388
+            "avg_speed": 14.709274344662427,
+            "speed_variance": 9.425430816121233
         },
         {
             "episode": 4,
-            "total_reward": 10.392857142857142,
-            "collisions": 0,
-            "avg_speed": 16.166102733317334,
-            "speed_variance": 4.947738999812139
+            "total_reward": 2.9607843137254903,
+            "collisions": 1,
+            "avg_speed": 15.280380565101703,
+            "speed_variance": 1.4309617773726355
         },
         {
             "episode": 5,
-            "total_reward": 10.464285714285715,
+            "total_reward": 10.769607843137253,
             "collisions": 0,
-            "avg_speed": 14.781106168677594,
-            "speed_variance": 4.248665478897838
+            "avg_speed": 10.178733884841657,
+            "speed_variance": 78.01900625523284
         },
         {
             "episode": 6,
-            "total_reward": 5.750000000000001,
+            "total_reward": 3.936274509803922,
             "collisions": 1,
-            "avg_speed": 15.49812978485923,
-            "speed_variance": 22.033086712814292
+            "avg_speed": 14.300219262237011,
+            "speed_variance": 8.2573543912406
         },
         {
             "episode": 7,
-            "total_reward": 10.42857142857143,
-            "collisions": 0,
-            "avg_speed": 16.481722492575937,
-            "speed_variance": 2.690305249569066
+            "total_reward": 10.799019607843139,
+            "collisions": 1,
+            "avg_speed": 11.86977066584814,
+            "speed_variance": 52.37872689530418
         },
         {
             "episode": 8,
-            "total_reward": 10.214285714285715,
+            "total_reward": 10.769607843137253,
             "collisions": 0,
-            "avg_speed": 15.493785848476513,
-            "speed_variance": 10.40227394069309
+            "avg_speed": 5.3329170173863165,
+            "speed_variance": 58.03458227992009
         },
         {
             "episode": 9,
-            "total_reward": 3.0,
+            "total_reward": 1.9803921568627452,
             "collisions": 1,
-            "avg_speed": 16.50885194869273,
-            "speed_variance": 0.08784812310501237
+            "avg_speed": 14.990821394202982,
+            "speed_variance": 10.578552174622548
         }
     ],
     "kpis": {
-        "average_reward": 8.192857142857145,
-        "total_collisions": 4,
-        "average_speed": 15.1014806360992,
-        "speed_variance": 9.968366355891002
+        "average_reward": 6.183823529411765,
+        "total_collisions": 7,
+        "average_speed": 10.974675341588718,
+        "speed_variance": 55.32138333514938
     },
     "environment": "roundabout",
     "stage": "pos_training_test"
