@@ -2,80 +2,80 @@
     "test_results": [
         {
             "episode": 0,
-            "total_reward": 133.0005291284189,
+            "total_reward": 88.4561759592358,
             "collisions": 1,
-            "avg_speed": 21.509251639942125,
-            "speed_variance": 1.2769533505295265
+            "avg_speed": 20.453929248040776,
+            "speed_variance": 1.0609097162329153
         },
         {
             "episode": 1,
-            "total_reward": 56.69597061738971,
+            "total_reward": 322.4555478998262,
             "collisions": 1,
-            "avg_speed": 20.861849404701978,
-            "speed_variance": 2.0836739409909026
+            "avg_speed": 20.894149681813857,
+            "speed_variance": 0.6853838581967522
         },
         {
             "episode": 2,
-            "total_reward": 44.53684808272779,
+            "total_reward": 207.90451555933248,
             "collisions": 1,
-            "avg_speed": 21.018398047367967,
-            "speed_variance": 1.1674612536006619
+            "avg_speed": 20.669904093535294,
+            "speed_variance": 0.8642812728585766
         },
         {
             "episode": 3,
-            "total_reward": 7.857417609974515,
+            "total_reward": 15.52657328626321,
             "collisions": 1,
-            "avg_speed": 20.488830178575025,
-            "speed_variance": 4.825820805097663
+            "avg_speed": 20.051448509067455,
+            "speed_variance": 2.2418032095685594
         },
         {
             "episode": 4,
-            "total_reward": 15.927339960786547,
+            "total_reward": 37.1358656127156,
             "collisions": 1,
-            "avg_speed": 20.848100802658138,
-            "speed_variance": 2.37652881924404
+            "avg_speed": 20.31565266255579,
+            "speed_variance": 1.2441601736725165
         },
         {
             "episode": 5,
-            "total_reward": 41.564482906283054,
+            "total_reward": 10.560814083363509,
             "collisions": 1,
-            "avg_speed": 21.303035904006443,
-            "speed_variance": 1.823053095104712
+            "avg_speed": 20.026661744672534,
+            "speed_variance": 2.3906314804603275
         },
         {
             "episode": 6,
-            "total_reward": 8.02064323598774,
-            "collisions": 1,
-            "avg_speed": 19.589305128419056,
-            "speed_variance": 6.071842463919479
+            "total_reward": 348.8680177441706,
+            "collisions": 0,
+            "avg_speed": 20.55248878680759,
+            "speed_variance": 9.674105719140359
         },
         {
             "episode": 7,
-            "total_reward": 343.8242789212224,
+            "total_reward": 40.077972251282574,
             "collisions": 1,
-            "avg_speed": 21.450939761756334,
-            "speed_variance": 0.7401811245136374
+            "avg_speed": 20.346429540892885,
+            "speed_variance": 1.478223835232325
         },
         {
             "episode": 8,
-            "total_reward": 41.63732555450867,
+            "total_reward": 312.7195080187579,
             "collisions": 1,
-            "avg_speed": 20.879542551659803,
-            "speed_variance": 1.8085260224181967
+            "avg_speed": 21.010757746063717,
+            "speed_variance": 0.7741632831002296
         },
         {
             "episode": 9,
-            "total_reward": 189.93476975203896,
+            "total_reward": 24.084221389380755,
             "collisions": 1,
-            "avg_speed": 20.771103949985683,
-            "speed_variance": 0.3118933051080615
+            "avg_speed": 20.188005017634072,
+            "speed_variance": 2.144229135504423
         }
     ],
     "kpis": {
-        "average_reward": 88.29996057693384,
-        "total_collisions": 10,
-        "average_speed": 21.18503440506478,
-        "speed_variance": 1.156633773158645
+        "average_reward": 140.77892118043286,
+        "total_collisions": 9,
+        "average_speed": 20.713909627142318,
+        "speed_variance": 3.2428980118719517
     },
     "environment": "final_test_highway_cruising",
     "stage": ""
