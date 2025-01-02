@@ -1,0 +1,35 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 7.556281629039626,
+            "collisions": 1,
+            "avg_speed": 19.927254949510285,
+            "speed_variance": 2.8560978712207503,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 1,
+            "total_reward": 6.072518782229342,
+            "collisions": 1,
+            "avg_speed": 19.935578904675985,
+            "speed_variance": 3.399747082134806,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        }
+    ],
+    "kpis": {
+        "average_reward": 6.814400205634485,
+        "total_collisions": 2,
+        "average_speed": 19.930896679895277,
+        "speed_variance": 3.0939614523959027,
+        "safe_distance_violations": 0.0,
+        "lane_discipline": 0.0,
+        "overtake_time": 0.0
+    },
+    "environment": "highway_cruising",
+    "stage": "pre_training_test"
+}

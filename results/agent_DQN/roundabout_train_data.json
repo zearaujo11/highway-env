@@ -1,0 +1,9 @@
+{
+    "agent_name": "agent_DQN",
+    "environment_name": "roundabout",
+    "stage": "roundabout",
+    "total_timesteps": 3,
+    "training_results": {
+        "rewards": []
+    }
+}
