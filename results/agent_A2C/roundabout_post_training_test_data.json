@@ -1,0 +1,19 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 3.9068627450980395,
+            "collisions": 1,
+            "avg_speed": 15.388408305430989,
+            "speed_variance": 13.629515807933151
+        }
+    ],
+    "kpis": {
+        "average_reward": 3.9068627450980395,
+        "total_collisions": 1,
+        "average_speed": 15.388408305430989,
+        "speed_variance": 13.629515807933151
+    },
+    "environment": "roundabout",
+    "stage": "post_training_test"
+}

@@ -1,81 +1,18 @@
 {
     "test_results": [
         {
-            "episode": 0,
-            "total_reward": 9.857843137254903,
-            "collisions": 0,
-            "avg_speed": 14.7549426318728,
-            "speed_variance": 7.347195861335578
-        },
-        {
             "episode": 1,
-            "total_reward": 8.906862745098039,
-            "collisions": 0,
-            "avg_speed": 15.690362734113217,
-            "speed_variance": 3.3591959790175325
-        },
-        {
-            "episode": 2,
-            "total_reward": 8.906862745098039,
-            "collisions": 0,
-            "avg_speed": 12.812548179158856,
-            "speed_variance": 40.0115898938649
-        },
-        {
-            "episode": 3,
-            "total_reward": 2.0,
+            "total_reward": 0.9803921568627452,
             "collisions": 1,
-            "avg_speed": 15.515253423048705,
-            "speed_variance": 8.458414644780502
-        },
-        {
-            "episode": 4,
-            "total_reward": 1.0,
-            "collisions": 1,
-            "avg_speed": 17.141170102199972,
-            "speed_variance": 13.264951152597373
-        },
-        {
-            "episode": 5,
-            "total_reward": 9.857843137254903,
-            "collisions": 0,
-            "avg_speed": 14.44891327793764,
-            "speed_variance": 10.976230895361738
-        },
-        {
-            "episode": 6,
-            "total_reward": 8.906862745098039,
-            "collisions": 0,
-            "avg_speed": 14.957979133055659,
-            "speed_variance": 7.5466892021312715
-        },
-        {
-            "episode": 7,
-            "total_reward": 3.0,
-            "collisions": 1,
-            "avg_speed": 15.424511942053394,
-            "speed_variance": 7.511964113456695
-        },
-        {
-            "episode": 8,
-            "total_reward": 8.906862745098039,
-            "collisions": 0,
-            "avg_speed": 16.273184641662723,
-            "speed_variance": 1.177698313500156
-        },
-        {
-            "episode": 9,
-            "total_reward": 9.857843137254903,
-            "collisions": 0,
-            "avg_speed": 9.255296526218157,
-            "speed_variance": 52.36394448006017
+            "avg_speed": 16.05529317258154,
+            "speed_variance": 5.662640174811228
         }
     ],
     "kpis": {
-        "average_reward": 7.120098039215686,
-        "total_collisions": 3,
-        "average_speed": 14.23365087951836,
-        "speed_variance": 21.22235149480944
+        "average_reward": 0.9803921568627452,
+        "total_collisions": 1,
+        "average_speed": 16.05529317258154,
+        "speed_variance": 5.662640174811228
     },
     "environment": "roundabout",
     "stage": "pre_training_test"

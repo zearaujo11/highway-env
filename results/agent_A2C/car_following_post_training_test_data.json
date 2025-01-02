@@ -1,0 +1,40 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 66.69414800139339,
+            "collisions": 0,
+            "avg_speed": 21.561480686997662,
+            "speed_variance": 0.34365560969241854
+        },
+        {
+            "episode": 1,
+            "total_reward": 66.69414800139339,
+            "collisions": 0,
+            "avg_speed": 21.99381839804742,
+            "speed_variance": 0.6866273501296769
+        },
+        {
+            "episode": 2,
+            "total_reward": 66.69414800139339,
+            "collisions": 0,
+            "avg_speed": 21.94842393275769,
+            "speed_variance": 0.5392390952400846
+        },
+        {
+            "episode": 3,
+            "total_reward": 66.69414800139339,
+            "collisions": 0,
+            "avg_speed": 22.663222652017975,
+            "speed_variance": 0.7820429523150978
+        }
+    ],
+    "kpis": {
+        "average_reward": 66.69414800139339,
+        "total_collisions": 0,
+        "average_speed": 22.041736417455187,
+        "speed_variance": 0.744864767537496
+    },
+    "environment": "car_following",
+    "stage": "post_training_test"
+}

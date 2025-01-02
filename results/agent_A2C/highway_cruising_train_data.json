@@ -1,0 +1,18 @@
+{
+    "agent_name": "agent_A2C",
+    "environment_name": "highway_cruising",
+    "stage": "highway_cruising",
+    "total_timesteps": 10,
+    "training_results": {
+        "rewards": [
+            14.188703118656209,
+            21.329117685596966,
+            3.3384349850655126,
+            5.891117188245223,
+            10.987839776612052,
+            7.461518694176504,
+            1.7639407202458812,
+            25.600551274653135
+        ]
+    }
+}

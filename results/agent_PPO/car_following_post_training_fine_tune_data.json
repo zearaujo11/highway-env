@@ -1,0 +1,82 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.851931509428844,
+            "speed_variance": 0.5200975113684719
+        },
+        {
+            "episode": 1,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 23.066569516880623,
+            "speed_variance": 0.9624089605634092
+        },
+        {
+            "episode": 2,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.577607504387316,
+            "speed_variance": 0.5582435787601712
+        },
+        {
+            "episode": 3,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 20.678878866410958,
+            "speed_variance": 0.6531250312713425
+        },
+        {
+            "episode": 4,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.648866955765335,
+            "speed_variance": 0.48061635024394816
+        },
+        {
+            "episode": 5,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.488748595804317,
+            "speed_variance": 0.6085272317106066
+        },
+        {
+            "episode": 6,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.55244336372742,
+            "speed_variance": 0.4634311871440535
+        },
+        {
+            "episode": 7,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.553383958026625,
+            "speed_variance": 1.356988118275399
+        },
+        {
+            "episode": 8,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.22936775184273,
+            "speed_variance": 0.444700972161902
+        },
+        {
+            "episode": 9,
+            "total_reward": 0.0,
+            "collisions": 0,
+            "avg_speed": 21.03478017656113,
+            "speed_variance": 0.5316855437286105
+        }
+    ],
+    "kpis": {
+        "average_reward": 0.0,
+        "total_collisions": 0,
+        "average_speed": 21.568257819883527,
+        "speed_variance": 1.0109051280639632
+    },
+    "environment": "car_following",
+    "stage": "post_training_fine_tune"
+}
