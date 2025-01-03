@@ -1,9 +1,0 @@
-{
-    "agent_name": "agent_DQN",
-    "environment_name": "car_following",
-    "stage": "car_following",
-    "total_timesteps": 1,
-    "training_results": {
-        "rewards": []
-    }
-}

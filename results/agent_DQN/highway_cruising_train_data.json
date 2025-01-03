@@ -1,9 +1,0 @@
-{
-    "agent_name": "agent_DQN",
-    "environment_name": "highway_cruising",
-    "stage": "highway_cruising",
-    "total_timesteps": 0,
-    "training_results": {
-        "rewards": []
-    }
-}
