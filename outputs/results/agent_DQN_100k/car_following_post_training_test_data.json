@@ -1,0 +1,115 @@
+{
+    "test_results": [
+        {
+            "episode": 0,
+            "total_reward": 70.02356818171134,
+            "collisions": 0,
+            "avg_speed": 22.142192372294204,
+            "speed_variance": 1.3660695880042721,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 1,
+            "total_reward": 69.2235681817802,
+            "collisions": 0,
+            "avg_speed": 21.22459248365098,
+            "speed_variance": 0.5726588429842951,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 2,
+            "total_reward": 68.82681584935297,
+            "collisions": 0,
+            "avg_speed": 22.25676257091025,
+            "speed_variance": 2.7746478961150727,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 3,
+            "total_reward": 8.160814667960373,
+            "collisions": 1,
+            "avg_speed": 19.786823740358674,
+            "speed_variance": 7.606633172943335,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 4,
+            "total_reward": 71.75625223451163,
+            "collisions": 0,
+            "avg_speed": 22.065084303962095,
+            "speed_variance": 0.4354526694174365,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 5,
+            "total_reward": 72.02291835030415,
+            "collisions": 0,
+            "avg_speed": 22.093108716496936,
+            "speed_variance": 0.42270323793660014,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 6,
+            "total_reward": 70.96003500231568,
+            "collisions": 0,
+            "avg_speed": 21.7548889840803,
+            "speed_variance": 0.5393013436471523,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 7,
+            "total_reward": 69.22681537839594,
+            "collisions": 0,
+            "avg_speed": 21.792641443531508,
+            "speed_variance": 1.2069131220404858,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 8,
+            "total_reward": 71.36014538880197,
+            "collisions": 0,
+            "avg_speed": 22.64645254107698,
+            "speed_variance": 1.3318258314135039,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        },
+        {
+            "episode": 9,
+            "total_reward": 69.75690143464625,
+            "collisions": 0,
+            "avg_speed": 21.210404662742018,
+            "speed_variance": 0.3618554085445944,
+            "safe_distance_violations": 0,
+            "lane_discipline": 0,
+            "overtake_time": 0
+        }
+    ],
+    "kpis": {
+        "average_reward": 64.13178346697805,
+        "total_collisions": 1,
+        "average_speed": 21.87934448685563,
+        "speed_variance": 1.3525611971070304,
+        "safe_distance_violations": 0.0,
+        "lane_discipline": 0.0,
+        "overtake_time": 0.0
+    },
+    "environment": "car_following",
+    "stage": "post_training_test"
+}
